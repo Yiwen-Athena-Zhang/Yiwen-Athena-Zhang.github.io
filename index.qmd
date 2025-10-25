@@ -15,9 +15,9 @@ about:
       href: "mailto:y.zhang539@lse.ac.uk"
 
 ---
-I am a first-year MRes/PhD student in the Department of Government, affiliated with the Data Science Institute at the London School of Economics and Political Science (LSE), under the supervision of Professor [Valentino Larcinese] (https://www.lse.ac.uk/people/valentino-larcinese). I am fully funded as the first cohort [Enlighten Scholar] (https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/enlighten-scholarship). Before joining LSE, I worked at the International Organization for Migration, analysing the UK National Referral Mechanism Data.
+I am a first-year MRes/PhD student in the Department of Government, affiliated with the Data Science Institute at the <strong>London School of Economics and Political Science (LSE)</strong>, under the supervision of Professor [Valentino Larcinese](https://www.lse.ac.uk/people/valentino-larcinese). I am fully funded as the first cohort [Enlighten Scholar](https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/enlighten-scholarship). Before joining LSE, I worked at the International Organization for Migration, analysing the UK National Referral Mechanism Data.
 
-My research interests lie in the political economy of inequality, public opinion, social policy, and computational social science, with a global focus and a particular emphasis on the contexts of China and the UK. My current projects include:
+My research interests lie in the <strong>political economy of inequality, public opinion, social policy, and computational social science</strong>, with a global focus and a particular emphasis on the contexts of China and the UK. My current projects include:
 -	Examine how welfare systems shape redistribution preferences across different countries
 -	Explore how news narratives influence international attitudes
 -	Replication of social experiments with synthetic data from LLMs
@@ -29,6 +29,7 @@ As a first-generation student from southwest China, I am passionate about public
 ### Key topics
 
 - Political Economy of Inequality
+- Political Psychology
 - Public Opinion
 - Social Policy
 - Computational Social Science
@@ -36,7 +37,7 @@ As a first-generation student from southwest China, I am passionate about public
 
 ### Education
 
-- MA Comparative Politics - Peking University
+- MPhil Comparative Politics - Peking University
 - BA Politics (Joint Honors Program in Politics, Law, and Sociology) - Peking University
 
 
