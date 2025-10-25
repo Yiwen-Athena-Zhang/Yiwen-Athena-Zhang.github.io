@@ -2,44 +2,22 @@
 title: "🎙 Outreach"
 ---
 
-## Organizer
+## Outreach
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-5}
-<a href="https://initiatives.weforum.org/beijing-hub/overview" target="_blank" rel="noopener">
-  <img src="{{ site.baseurl }}/assets/pictures/globalshapers.JPG"
-       alt="Global Shapers Beijing Hub"
-       style="width:220px; height:auto; max-width:100%; border-radius:8px; display:block; margin:auto;">
-</a>
-:::
-::: {.g-col-12 .g-col-md-7}
-<p style="font-size:1.5rem"> World Economic Forum Global Shapers Community – Beijing Hub </p>
+### World Economic Forum Global Shapers Community – Beijing Hub
+![](assets/pictures/globalshapers.jpg){width="250" style="display:block; margin:auto; border-radius:8px;"}
 
 `2023–ongoing`
 
 The **Global Shapers Community Beijing Hub**, initiated by the World Economic Forum, is a network of young leaders committed to driving dialogue, action, and change on local and global challenges.  
 Yiwen Zhang serves as a **Global Shaper and Curator**, leading initiatives on gender equality, education equity, and youth empowerment — including the flagship project *SheShapes*, which connects young women with mentors from academia, consulting, and international organizations.
-:::
 
 ---
 
-## Media
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-5}
-<a href="https://news.un.org/zh/story/2023/08/1120572" target="_blank" rel="noopener">
-  <img src="{{ site.baseurl }}/assets/pictures/unnews_interview.png"
-       alt="United Nations News Interview"
-       style="width:220px; height:auto; max-width:100%; border-radius:8px; display:block; margin:auto;">
-</a>
-:::
-::: {.g-col-12 .g-col-md-7}
-<p style="font-size:1.5rem"> United Nations News Interview – “青年力量：为可持续发展目标行动” </p>
+### United Nations News Interview – “青年力量：为可持续发展目标行动”
+![](assets/pictures/unnews_interview.png){width="250" style="display:block; margin:auto; border-radius:8px;"}
 
 `August 2023`
 
 Yiwen Zhang was interviewed by **United Nations News** as a youth delegate of the China SDGs Initiative, sharing her experiences in advancing education equality and gender empowerment.  
 In the interview, she discussed how young changemakers can translate global goals into local actions and highlighted her work through *SheShapes Impact* and *Future Youth* to support girls and students from underprivileged backgrounds.
-:::
