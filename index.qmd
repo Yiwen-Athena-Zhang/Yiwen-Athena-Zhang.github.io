@@ -1,69 +1,42 @@
 ---
-title: "Valentina Giunchiglia"
+title: "Yiwen Zhang"
 about:
   template: trestles
-  image: assets/pictures/profile-picture.jpg
+  image: assets/pictures/profile-yiwen.jpg
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/valegiunca/
-    - icon: github
-      text: Github
-      href: https://github.com/valegiunchiglia/
+      href: https://x.com/Athena_Yiwen
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/valentina-giunchiglia-b59747150/
+      href: www.linkedin.com/in/athena-yiwen-zhang
     - icon: envelope
       text: Reach me per email
-      href: "mailto:v.giunchiglia20@imperial.ac.uk"
+      href: "mailto:y.zhang539@lse.ac.uk"
 
 ---
+I am a first-year MRes/PhD student in the Department of Government, affiliated with the Data Science Institute at the London School of Economics and Political Science (LSE), under the supervision of Professor [Valentino Larcinese] (https://www.lse.ac.uk/people/valentino-larcinese). I am fully funded as the first cohort [Enlighten Scholar] (https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/enlighten-scholarship). Before joining LSE, I worked at the International Organization for Migration, analysing the UK National Referral Mechanism Data.
 
-I am a second-year PhD student jointly affiliated with Imperial College London and Harvard University funded by the [Medical Research Council](https://www.imperial.ac.uk/multisci-mrc-dtp/), under the supervision of Prof. [Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and Prof. Adam Hampshire. 
+My research interests lie in the political economy of inequality, public opinion, social policy, and computational social science, with a global focus and a particular emphasis on the contexts of China and the UK. My current projects include:
+-	Examine how welfare systems shape redistribution preferences across different countries
+-	Explore how news narratives influence international attitudes
+-	Replication of social experiments with synthetic data from LLMs
 
-My work lies at the intersection of artificial intelligence, biology, and health, with a focus on neuroscience. I am interested in a holistic study of diseases across multiple levels — from cellular and genetic to brain structure and clinical phenotypes — to drive advancements in **precision medicine**. To achieve this, I work on research spanning bioinformatics, artificial intelligence, and clinical and behavioural analysis,  with the aim to gain expertise that enables me to leverage diverse data types and insights for precision medicine. Specifically, I am focused on developing **multimodal foundation models** that integrate diverse data types to effectively capture the complexity of diseases while embedding context-aware knowledge. 
+As a first-generation student from southwest China, I am passionate about public welfare and youth leadership. I’m the co-founder of an education project, “Future Youth (后浪计划)”, and have been recognized as a Forbes China 30 Under 30. I am also a World Economic Forum Global Shaper and serve part-time as curator of the Beijing Hub. In my spare time, I enjoy playing football, watching musicals, and hiking.
 
-My long-term research goal is to investigate diseases using multimodal data (e.g., imaging, omics, and electronic health records) to capture diverse disease characteristics and identify precise, clinically applicable treatments. 
-
-I enjoy teaching, both inside and [outside](https://girlswhoml.com/) academic environments.
-You can check out a detailed list in my [Teaching page](/teaching.qmd). 
-
-*I am always happy to supervise students (both in more clinical and more AI focused projects) from Imperial College London, King's College London and Harvard University. If you are interested in working with me and want to discuss potential projects, you can contact me at v.giunchiglia20@imperial.ac.uk.*
 
 
 ### Key topics
 
-- Biomedical Informatics
-- Computational Modelling
-- Computational Neuroscience
-- Machine Learning
+- Political Economy of Inequality
+- Public Opinion
+- Social Policy
+- Computational Social Science
+
 
 ### Education
 
-- MRes Biomedical Research (Data Science) - Imperial College London
-- MA Health Humanities - UCL
-- BSc Molecular Biotechnology - Heidelberg University
-
-### Further links
-<table width="60%" align="center">
-    <tr>
-        <td>
-            <a href="https://scholar.google.com/citations?user=p87Sl34AAAAJ&hl=en">
-                <img src="/assets/pictures/gs.png" alt="Google Scholar" width="40">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.researchgate.net/profile/Valentina-Giunchiglia">
-                <img src="/assets/pictures/researchgate.png" alt="ResearchGate" width="40">
-            </a>
-        </td>
-        <td>
-            <a href="https://orcid.org/0000-0002-2165-7840">
-                <img src="/assets/pictures/ORCID_iD.png" alt="ORCID" width="40">
-            </a>
-        </td>
-    </tr>
-</table>
-
+- MA Comparative Politics - Peking University
+- BA Politics (Joint Honors Program in Politics, Law, and Sociology) - Peking University
 
 

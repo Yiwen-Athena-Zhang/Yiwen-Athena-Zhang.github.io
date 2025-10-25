@@ -5,27 +5,24 @@ project:
     - "*.qmd"
 
 website:
-  title: "Valentina Giunchiglia"
-  description: "Cognition, Imaging, Machine Learning"
+  title: "Yiwen Zhang"
+  description: "Political Inequality, Inequality, Computational Social Science"
   navbar:
     background: "#023a75ff"
     foreground: "#ffffffff"
     left:
       - text: Publications
         href: publications.qmd
-      - text: Teaching
-        href: teaching.qmd
       - text: Outreach
         href: outreach.qmd
       - text: CV
         href: curriculum.qmd
     right:
-      - icon: github
-        href: https://github.com/valegiunchiglia/
       - icon: twitter
-        href: https://twitter.com/valegiunca/
+        href: https://x.com/Athena_Yiwen
       - icon: envelope
-        href: "mailto:v.giunchiglia20@imperial.ac.uk"
+        href: "mailto:y.zhang539@lse.ac.uk"
+   
 
 format:
   html:
