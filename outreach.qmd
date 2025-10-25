@@ -7,7 +7,11 @@ title: "🎙 Outreach"
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/assets/pictures/globalshapers.jpeg)](https://initiatives.weforum.org/beijing-hub/overview)
+<a href="https://initiatives.weforum.org/beijing-hub/overview" target="_blank" rel="noopener">
+  <img src="{{ site.baseurl }}/assets/pictures/globalshapers.JPG"
+       alt="Global Shapers Beijing Hub"
+       style="width:220px; height:auto; max-width:100%; border-radius:8px; display:block; margin:auto;">
+</a>
 :::
 ::: {.g-col-12 .g-col-md-7}
 <p style="font-size:1.5rem"> World Economic Forum Global Shapers Community – Beijing Hub </p>
@@ -18,12 +22,18 @@ The **Global Shapers Community Beijing Hub**, initiated by the World Economic Fo
 Yiwen Zhang serves as a **Global Shaper and Curator**, leading initiatives on gender equality, education equity, and youth empowerment — including the flagship project *SheShapes*, which connects young women with mentors from academia, consulting, and international organizations.
 :::
 
+---
+
 ## Media
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5}
-[![](/assets/pictures/unnews_interview.jpeg)](https://news.un.org/zh/story/2023/08/1120572)
+<a href="https://news.un.org/zh/story/2023/08/1120572" target="_blank" rel="noopener">
+  <img src="{{ site.baseurl }}/assets/pictures/unnews_interview.png"
+       alt="United Nations News Interview"
+       style="width:220px; height:auto; max-width:100%; border-radius:8px; display:block; margin:auto;">
+</a>
 :::
 ::: {.g-col-12 .g-col-md-7}
 <p style="font-size:1.5rem"> United Nations News Interview – “青年力量：为可持续发展目标行动” </p>
