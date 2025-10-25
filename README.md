@@ -3,7 +3,6 @@
 
 This repository hosts the source code for my personal academic website, built using GitHub Pages and Jekyll.
 
-🌐 **Live site:** [https://yiwenzhang.github.io/](https://yiwenzhang.github.io/)  
 📄 **Author:** Yiwen Zhang  
 🎓 **Research areas:** Political Economy, Inequality, Welfare States, Political Behavior
 
