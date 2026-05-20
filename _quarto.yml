@@ -1,37 +1,42 @@
-
-
 project:
   type: website
   output-dir: docs
-  render:
-    - "*.qmd"
 
 website:
   title: "Yiwen Zhang"
-  description: "Political Inequality, Inequality, Computational Social Science"
+  description: "Political Economy of Inequality, Social Policy, and Computational Social Science"
   navbar:
-    background: "#023a75ff"
-    foreground: "#ffffffff"
+    background: "#efe7ff"
+    foreground: "#2a2438"
     left:
-      - text: Publications
+      - text: Research
         href: publications.qmd
       - text: Outreach
         href: outreach.qmd
       - text: CV
-        href: curriculum.qmd
+        href: assets/yiwen-zhang-cv.pdf
     right:
-      - icon: twitter
+      - icon: twitter-x
         href: https://x.com/Athena_Yiwen
+        aria-label: X / Twitter
+      - icon: linkedin
+        href: https://www.linkedin.com/in/athena-yiwen-zhang
+        aria-label: LinkedIn
       - icon: envelope
-        href: "mailto:y.zhang539@lse.ac.uk"
-   
+        href: mailto:y.zhang539@lse.ac.uk
+        aria-label: Email
+
+
 
 format:
   html:
-    theme: 
+    theme:
       - cosmo
       - custom.scss
     toc: true
-    linkcolor: black
-
-
+    linkcolor: "#5b21b6"
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
