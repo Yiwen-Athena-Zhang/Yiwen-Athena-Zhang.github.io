@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
+    - CNAME
     - assets/**
 
 website:
@@ -16,7 +17,7 @@ website:
       - text: Outreach
         href: outreach.qmd
       - text: CV
-        href: assets/yiwen-zhang-cv.pdf
+        href: assets/files/yiwen-zhang-cv.pdf
     right:
       - icon: twitter-x
         href: https://x.com/Athena_Yiwen
@@ -27,7 +28,6 @@ website:
       - icon: envelope
         href: mailto:y.zhang539@lse.ac.uk
         aria-label: Email
-
 
 
 format:
