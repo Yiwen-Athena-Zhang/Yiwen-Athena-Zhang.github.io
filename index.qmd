@@ -62,7 +62,7 @@ body-class: homepage
     </div>
 
     <div class="profile-links">
-      <a href="assets/files/yiwen-zhang-cv.pdf" class="cv-link" target="_blank" rel="noopener">Download CV</a>
+      <a href="assets/yiwen-zhang-cv.pdf" class="cv-link" target="_blank" rel="noopener">Download CV</a>
       <a href="https://x.com/Athena_Yiwen">Twitter/X</a>
       <a href="https://www.linkedin.com/in/athena-yiwen-zhang">LinkedIn</a>
       <a href="mailto:y.zhang539@lse.ac.uk">Email</a>
