@@ -1,21 +1,51 @@
-
-
-## Outreach
-
-### World Economic Forum Global Shapers Community – Beijing Hub
-![](assets/pictures/globalshapers.jpg){width="250" style="display:block; margin:auto; border-radius:8px;"}
-
-`2023–ongoing`
-
-The **Global Shapers Community Beijing Hub**, initiated by the World Economic Forum, is a network of young leaders committed to driving dialogue, action, and change on local and global challenges.  
-Yiwen Zhang serves as a **Global Shaper and Curator**, leading initiatives on gender equality, education equity, and youth empowerment — including the flagship project *SheShapes*, which connects young women with mentors from academia, consulting, and international organizations.
-
+---
+title: "Outreach"
+pagetitle: "Outreach | Yiwen Zhang"
+description: "Public work and outreach by Yiwen Zhang, including SheShapes AI, World Economic Forum Global Shapers, Youth Pulse, Future Youth, and intergenerational exchange."
+page-layout: full
+body-class: inner-page
 ---
 
-### United Nations News Interview – “青年力量：为可持续发展目标行动”
-![](assets/pictures/unnews_interview.png){width="250" style="display:block; margin:auto; border-radius:8px;"}
+::: {.page-shell}
 
-`August 2023`
+# Outreach
 
-Yiwen Zhang was interviewed by **United Nations News** as a youth delegate of the China SDGs Initiative, sharing her experiences in advancing education equality and gender empowerment.  
-In the interview, she discussed how young changemakers can translate global goals into local actions and highlighted her work through *SheShapes Impact* and *Future Youth* to support girls and students from underprivileged backgrounds.
+I connect research with public action through inclusive technology, education equity, youth leadership, and cross-sector collaboration.
+
+## Public Initiatives
+
+::: {.research-entry}
+**[SheShapes AI](https://www.linkedin.com/company/sheshapes){target="_blank" rel="noopener"}**  
+Co-founder. SheShapes AI supports inclusive AI literacy, leadership, and social impact through fellowships, workshops, mentoring, and community-based learning.
+:::
+
+::: {.research-entry}
+**Future Youth**  
+Co-founder. An education equity initiative supporting students from under-resourced backgrounds through mentorship, workshops, and public-facing educational resources.
+:::
+
+## Leadership and Community
+
+::: {.research-entry}
+**World Economic Forum Global Shapers Community — Beijing Hub**  
+Global Shaper, Beijing Hub Curator, and Youth Pulse Sub-Regional Steward for Greater China and North Asia. I have contributed to youth-led initiatives on gender equality, education equity, technology, and social impact.
+:::
+
+::: {.research-entry}
+**Schwab Foundation × Global Shapers Community Intergenerational Exchange**  
+Selected for the 2026 Intergenerational Exchange, a cross-generational dialogue programme connecting emerging and established social innovators.
+:::
+
+## Recognition and Media
+
+::: {.research-entry}
+**[Forbes China 30 Under 30](https://www.forbeschina.com/lists/1815){target="_blank" rel="noopener"}**  
+Recognised in the Social Enterprise category in 2023.
+:::
+
+::: {.research-entry}
+**[United Nations News Interview — “青年力量：为可持续发展目标行动”](https://news.un.org/zh/story/2023/08/1120572){target="_blank" rel="noopener"}**  
+Interviewed as a youth delegate of the China SDGs Initiative, discussing education equity, gender empowerment, and youth-led action.
+:::
+
+:::

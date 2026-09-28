@@ -1,30 +1,72 @@
 [
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Yiwen Zhang",
+    "objectID": "README_UPDATE.html",
+    "href": "README_UPDATE.html",
+    "title": "Yiwen website redesign v4",
     "section": "",
-    "text": "2023–ongoing\nThe Global Shapers Community Beijing Hub, initiated by the World Economic Forum, is a network of young leaders committed to driving dialogue, action, and change on local and global challenges.\nYiwen Zhang serves as a Global Shaper and Curator, leading initiatives on gender equality, education equity, and youth empowerment — including the flagship project SheShapes, which connects young women with mentors from academia, consulting, and international organizations.\n\n\n\n\n\nAugust 2023\nYiwen Zhang was interviewed by United Nations News as a youth delegate of the China SDGs Initiative, sharing her experiences in advancing education equality and gender empowerment.\nIn the interview, she discussed how young changemakers can translate global goals into local actions and highlighted her work through SheShapes Impact and Future Youth to support girls and students from underprivileged backgrounds."
+    "text": "Yiwen website redesign v4\nThis version implements the latest requested edits:\n\nRemoves hyperlinks from supervisor names on the homepage.\nAdds Forbes China 30 Under 30 (2023) with the official Forbes China link.\nHides Quarto hover anchor icons.\nReorders public work: SheShapes AI, World Economic Forum Global Shapers, Future Youth.\nRevises GV101 teaching wording and keeps the LSE course guide link.\nRemoves the Work in Progress section from the Research page.\nAdds links for Forbes and the UN News interview item.\nRephrases Intergenerational Exchange entry to avoid the weak “selected participant” wording.\n\nReplace the corresponding files in your Quarto project root, then run:\nquarto preview .\nquarto render .\nCommit both the source files and the generated docs/ directory."
   },
   {
-    "objectID": "outreach.html#outreach",
-    "href": "outreach.html#outreach",
-    "title": "Yiwen Zhang",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research",
     "section": "",
-    "text": "2023–ongoing\nThe Global Shapers Community Beijing Hub, initiated by the World Economic Forum, is a network of young leaders committed to driving dialogue, action, and change on local and global challenges.\nYiwen Zhang serves as a Global Shaper and Curator, leading initiatives on gender equality, education equity, and youth empowerment — including the flagship project SheShapes, which connects young women with mentors from academia, consulting, and international organizations.\n\n\n\n\n\nAugust 2023\nYiwen Zhang was interviewed by United Nations News as a youth delegate of the China SDGs Initiative, sharing her experiences in advancing education equality and gender empowerment.\nIn the interview, she discussed how young changemakers can translate global goals into local actions and highlighted her work through SheShapes Impact and Future Youth to support girls and students from underprivileged backgrounds."
+    "text": "My research sits at the intersection of inequality, comparative political economy, computational social science, and AI governance. I study how welfare institutions, economic insecurity, and technological change shape political behaviour, public opinion, and policy-relevant attitudes.\n\n\n\nThe Politics of Unequal Protection: Three Essays on Welfare States, Economic Insecurity, and Technological Change\nDoctoral research project. This project develops the concept of expected residual loss to explain how institutional protection shapes the translation of economic insecurity into political demand.\n\n\n\n\n\nAggregate Agreement Is Not Validity: Three Levels of Evidence for LLM-Simulated Public Opinion in China and Britain\nWorking paper; presented at APSA 2026. This paper develops claim-dependent validation for synthetic survey respondents and identifies cross-public structural substitution in redistribution attitudes.\n\n\nHung, Ho Ting, Nachiket Midha, Victor Y. Wu, and Yiwen Zhang. 2026. “Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments.” Working paper / arXiv preprint.\narXiv\n\n\n\n\n\nBurland, Patrick, and Yiwen Zhang. 2025. “Seeing beyond the negative: An examination of key variables in the different reasons for the decisions not to formally recognise people as survivors of modern slavery.” Modern Slavery and Human Rights Policy and Evidence Centre, University of Oxford, in collaboration with IOM UK. Policy report.\nProject link"
+  },
+  {
+    "objectID": "publications.html#doctoral-research",
+    "href": "publications.html#doctoral-research",
+    "title": "Research",
+    "section": "",
+    "text": "The Politics of Unequal Protection: Three Essays on Welfare States, Economic Insecurity, and Technological Change\nDoctoral research project. This project develops the concept of expected residual loss to explain how institutional protection shapes the translation of economic insecurity into political demand."
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Aggregate Agreement Is Not Validity: Three Levels of Evidence for LLM-Simulated Public Opinion in China and Britain\nWorking paper; presented at APSA 2026. This paper develops claim-dependent validation for synthetic survey respondents and identifies cross-public structural substitution in redistribution attitudes.\n\n\nHung, Ho Ting, Nachiket Midha, Victor Y. Wu, and Yiwen Zhang. 2026. “Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments.” Working paper / arXiv preprint.\narXiv"
+  },
+  {
+    "objectID": "publications.html#publications-and-policy-reports",
+    "href": "publications.html#publications-and-policy-reports",
+    "title": "Research",
+    "section": "",
+    "text": "Burland, Patrick, and Yiwen Zhang. 2025. “Seeing beyond the negative: An examination of key variables in the different reasons for the decisions not to formally recognise people as survivors of modern slavery.” Modern Slavery and Human Rights Policy and Evidence Centre, University of Oxford, in collaboration with IOM UK. Policy report.\nProject link"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yiwen Zhang",
     "section": "",
-    "text": "EN\n    中文\n  \n\n  \n    Research · Policy · Public Action\n\n    \n      I study how inequality shapes lives, and how research and public action can help widen opportunity.\n    \n\n    \n      我关注不平等如何塑造个体命运，也希望通过研究、政策与公共行动，拓宽更多人的机会。\n    \n  \n\n\n  \n  \n    \n  \n\n  \n    \n      张译文\n      Yiwen Zhang\n    \n\n    \n      \n        Forbes China 30 Under 30 · World Economic Forum Global Shaper\n      \n      \n        PhD student in Political Science, LSE Government\n      \n      \n        Political Economy of Inequality · Social Policy · Computational Social Science\n      \n    \n\n    \n      \n        福布斯中国 30 Under 30 · 世界经济论坛全球杰出青年\n      \n      \n        伦敦政治经济学院政府系政治学博士生\n      \n      \n        不平等政治经济学 · 社会政策 · 计算社会科学\n      \n    \n\n    \n      Download CV\n      Twitter/X\n      LinkedIn\n      Email\n    \n  \n\n  \n\n\n\n\nI am a PhD student in the Department of Government at the London School of Economics and Political Science (LSE), affiliated with the Data Science Institute and supervised by Professor Valentino Larcinese. I am fully funded as a first-cohort Enlighten Scholar.\n\n\nMy research sits at the intersection of political economy, public opinion, social policy, and computational social science. I study how inequality shapes political behaviour, how welfare states structure citizens’ redistributive preferences, and how computational methods—including large language models—can be used to study political attitudes and policy-relevant questions.\n\n\n\n\n我本科毕业于北京大学政府管理学院，现为伦敦政治经济学院政府系政治学博士生，同时隶属于数据科学研究所，导师为 Valentino Larcinese 教授。我是 LSE 首届 Enlighten Scholar，博士阶段获得全额资助。\n\n\n我的研究关注不平等政治经济学、公共舆论、社会政策与计算社会科学之间的交叉问题。我尤其关心：不平等如何影响政治行为，福利国家如何塑造公民的再分配偏好，以及包括大语言模型在内的计算方法如何帮助我们研究政治态度与政策问题。\n\n\nBefore joining LSE, I worked at the International Organization for Migration, where I analysed the UK National Referral Mechanism data and contributed to policy-facing research on modern slavery and human trafficking.\n\nCurrent research\n\nWelfare states, inequality, and redistributive politics\n\nPublic opinion and political psychology\n\nComputational social science and LLM-generated synthetic data\n\nChina, the UK, and comparative political economy\n\nAs a first-generation university student from Sichuan, China, I am passionate about public welfare and education equity. In my spare time, I enjoy playing football, watching musicals, and hiking.\n\n\nSelected public work\n\nCo-founder, Future Youth (后浪计划)\nCo-founder, SheShapes Social Impact\n\n\n\nEducation\n\nMPhil in Comparative Politics, Peking University\n\nBA in Politics, Law, and Sociology, Peking University"
+    "text": "Yiwen Zhang\n    张译文\n    PhD Candidate in Political ScienceLSE Government\n\n    \n      Download CV\n      Email\n      LinkedIn\n    \n    CV updated: September 2026\n  \n\n  \n    \n      About\n      Researching inequality, welfare institutions, and technological change.\n      \n        I am a PhD candidate in the Department of Government at the London School of Economics and Political Science (LSE), affiliated with the Data Science Institute and supervised by Professor Valentino Larcinese and Dr Pavithra Suryanarayan. I am fully funded as a first-cohort Enlighten Scholar.\n      \n      \n        Before joining LSE, I completed my M.Phil. and B.A. in Political Science (with joint honour program in Politics, Law, and Sociology) at Peking University.\n      \n      \n        My research sits at the intersection of inequality, comparative political economy, computational social science, and AI governance. I study how welfare institutions and technological change shape economic insecurity, political demand, public opinion, and policy-relevant attitudes.\n      \n      \n        As a first-generation university student from Sichuan, China, I also work on public initiatives that connect research with education equity, youth leadership, and inclusive technology. I was named to Forbes China 30 Under 30 (2023) in the Social Enterprise category.\n      \n    \n\n    \n      \n        Selected Research\n        View all research →\n      \n      \n        \n          01\n          \n            The Politics of Unequal Protection\n            Doctoral research project\n            Three essays on welfare states, economic insecurity, and technological change.\n          \n        \n\n        \n          02\n          \n            Multi-dimensional Bias in Modeling Multi-dimensional Preferences\n            Working paper / arXiv · 2026\n            Evaluating whether LLM-generated synthetic agents can substitute for human respondents in conjoint experiments.\n          \n        \n\n        \n          03\n          \n            Seeing beyond the negative\n            Policy report · University of Oxford Modern Slavery and Human Rights Policy and Evidence Centre / IOM UK · 2025\n            An examination of variables in decisions not to formally recognise people as survivors of modern slavery.\n          \n        \n      \n    \n\n    \n      \n        Teaching\n        \n        GV101 Introduction to Political Science\n        Graduate Teaching Assistant · LSE · 2026–27\n        Teaching two class groups for GV101, a core undergraduate course in political science at LSE.\n      \n      \n\n      \n        \n          Public Work\n          View outreach →\n        \n        \n          SheShapes AICo-founder; inclusive AI literacy and leadership.\n          World Economic Forum Global Shapers CommunityGlobal Shaper; Beijing Hub Curator; Youth Pulse Sub-Regional Steward.\n          Future YouthCo-founder; education equity initiative.\n        \n      \n    \n\n    Last updated: September 2026"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications & Working in Progress",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreach",
     "section": "",
-    "text": "Working in Progress\nBosco Hung, Nachiket Midha, Yiwen Zhang, Victor Yuhang Wu and Alice Malmberg Multi-dimensional Bias in Modelling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments Working paper.\nYiwen Zhang and Yanjun Liu. Can Welfare States Overcome the Political Trap of Income Inequality? Working paper. Presented at MPSA Annual Meeting 2025.\nYanjun Liu, Yiwen Zhang, and Cheng Tan. How National Narratives Shape Citizens’ Worldview: A Survey Experiment in China. Working paper. Presented at MPSA 2025 and APSA 2025.\n\n\nPolicy output\nPatrick Burland, Yiwen Zhang Statistical Analysis of the UK National Referral Mechanism.\nConducted at the International Organization for Migration (IOM) UK Office in collaboration with the Modern Slavery and Human Rights Policy and Evidence Centre (Modern Slavery PEC), 2024–2025.\nProject link."
+    "text": "I connect research with public action through inclusive technology, education equity, youth leadership, and cross-sector collaboration.\n\n\n\nSheShapes AI\nCo-founder. SheShapes AI supports inclusive AI literacy, leadership, and social impact through fellowships, workshops, mentoring, and community-based learning.\n\n\nFuture Youth\nCo-founder. An education equity initiative supporting students from under-resourced backgrounds through mentorship, workshops, and public-facing educational resources.\n\n\n\n\n\nWorld Economic Forum Global Shapers Community — Beijing Hub\nGlobal Shaper, Beijing Hub Curator, and Youth Pulse Sub-Regional Steward for Greater China and North Asia. I have contributed to youth-led initiatives on gender equality, education equity, technology, and social impact.\n\n\nSchwab Foundation × Global Shapers Community Intergenerational Exchange\nSelected for the 2026 Intergenerational Exchange, a cross-generational dialogue programme connecting emerging and established social innovators.\n\n\n\n\n\nForbes China 30 Under 30\nRecognised in the Social Enterprise category in 2023.\n\n\nUnited Nations News Interview — “青年力量：为可持续发展目标行动”\nInterviewed as a youth delegate of the China SDGs Initiative, discussing education equity, gender empowerment, and youth-led action."
+  },
+  {
+    "objectID": "outreach.html#public-initiatives",
+    "href": "outreach.html#public-initiatives",
+    "title": "Outreach",
+    "section": "",
+    "text": "SheShapes AI\nCo-founder. SheShapes AI supports inclusive AI literacy, leadership, and social impact through fellowships, workshops, mentoring, and community-based learning.\n\n\nFuture Youth\nCo-founder. An education equity initiative supporting students from under-resourced backgrounds through mentorship, workshops, and public-facing educational resources."
+  },
+  {
+    "objectID": "outreach.html#leadership-and-community",
+    "href": "outreach.html#leadership-and-community",
+    "title": "Outreach",
+    "section": "",
+    "text": "World Economic Forum Global Shapers Community — Beijing Hub\nGlobal Shaper, Beijing Hub Curator, and Youth Pulse Sub-Regional Steward for Greater China and North Asia. I have contributed to youth-led initiatives on gender equality, education equity, technology, and social impact.\n\n\nSchwab Foundation × Global Shapers Community Intergenerational Exchange\nSelected for the 2026 Intergenerational Exchange, a cross-generational dialogue programme connecting emerging and established social innovators."
+  },
+  {
+    "objectID": "outreach.html#recognition-and-media",
+    "href": "outreach.html#recognition-and-media",
+    "title": "Outreach",
+    "section": "",
+    "text": "Forbes China 30 Under 30\nRecognised in the Social Enterprise category in 2023.\n\n\nUnited Nations News Interview — “青年力量：为可持续发展目标行动”\nInterviewed as a youth delegate of the China SDGs Initiative, discussing education equity, gender empowerment, and youth-led action."
   }
 ]

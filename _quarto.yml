@@ -7,19 +7,18 @@ project:
 
 website:
   title: "Yiwen Zhang"
-  description: "Political Economy of Inequality, Social Policy, and Computational Social Science"
+  description: "Inequality, comparative political economy, computational social science, and AI governance."
   navbar:
-    background: "#efe7ff"
-    foreground: "#2a2438"
+    background: white
+    foreground: "#222222"
     left:
       - text: Research
         href: publications.qmd
       - text: Outreach
         href: outreach.qmd
+      - text: Download CV
+        href: assets/yiwen-zhang-cv.pdf
     right:
-      - icon: twitter-x
-        href: https://x.com/Athena_Yiwen
-        aria-label: X / Twitter
       - icon: linkedin
         href: https://www.linkedin.com/in/athena-yiwen-zhang
         aria-label: LinkedIn
@@ -27,16 +26,15 @@ website:
         href: mailto:y.zhang539@lse.ac.uk
         aria-label: Email
 
-
 format:
   html:
     theme:
       - cosmo
       - custom.scss
-    toc: true
-    linkcolor: "#5b21b6"
+    toc: false
+    linkcolor: "#6f4f8f"
     include-in-header:
       text: |
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;450;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
